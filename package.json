@@ -1,6 +1,6 @@
 {
-  "name": "pmx",
-  "version": "1.6.4",
+  "name": "15v-pmx",
+  "version": "1.6.5",
   "description": "PM2/Keymetrics advanced API",
   "main": "index.js",
   "dependencies": {
@@ -74,8 +74,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/keymetrics/pmx.git"
+    "url": "https://github.com/Jiang-Xuan/pmx"
   },
-  "author": "Keymetrics I/O",
+  "author": "Jiang-Xuan",
   "license": "MIT"
 }

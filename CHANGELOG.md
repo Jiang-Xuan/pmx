@@ -1,3 +1,7 @@
+# 1.6.5
+
+- feature : 增加移除 metrics 功能, 向父级响应 axm:monitor:delete event
+
 # 1.6.3
 
 - feature : add deep metrics (mysql, mongo, mqtt, ws, ...)
